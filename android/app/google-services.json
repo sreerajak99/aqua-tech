@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "407192047002",
+    "project_id": "aquatech-de48c",
+    "storage_bucket": "aquatech-de48c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407192047002:android:4898beee0d4c75265cbe23",
+        "android_client_info": {
+          "package_name": "com.example.aquatech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmIzYsuHlVTTDrWFR735cggIqhqET8Lhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
